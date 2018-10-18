@@ -1,4 +1,4 @@
-/*  Mosh Hamadani NodeJS Tutorail */
+/*  Mosh Hamadani NodeJS Tutorial */
 
 const express = require('express');
 
