@@ -1,0 +1,11 @@
+REST stands for representational state transfer , which involoves the use of HTTP methods for performing the CRUD operations on a resource following an endpoint
+1) GET for displaying data or retrieve
+2) POST for creating data
+3) PUT for updating data
+4) DELETE for deleting data
+
+NPM Packages used :
+
+Express for routing ,
+JOI for validation of requests,
+POSTMAN APP for understanding the workflow of requests 
